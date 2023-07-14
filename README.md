@@ -22,7 +22,7 @@ This repository contains the implementation and evaluation of different models u
 ### **Data Sources:**
 1. Forex Price Data: Historical Forex price data is used as a key input for training and testing the prediction models.
 2. Technical Indicators: A set of technical indicators (such as Moving Average, MACD, RSI, ADX, Bollinger Bands, etc) are calculated based on the Forex price data to provide additional features for the models.
-3. Twitter Data: Daily tweets collected from Twitter are utilized for sentiment analysis and extracting sentiment-related features.
+3. Twitter Data: Daily tweets collected from Twitter by snscrape are utilized for sentiment analysis and extracting sentiment-related features.
 
 ## **Usage**
 To use the code and replicate the experiments conducted in this thesis, follow the instructions provided in each model's respective directory. The necessary datasets, pre-processing steps, and model training procedures will be detailed within the documentation.
